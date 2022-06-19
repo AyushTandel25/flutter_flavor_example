@@ -8,6 +8,8 @@ class AppConfig extends InheritedWidget {
     required Widget child,
   }) : super(key: key, child: child);
 
+
+  // values which should be different for different flavor.
   final String appEnv;
   final String appBaseUrl;
 

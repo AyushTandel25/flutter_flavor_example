@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_flavor_example/screens/login_screen.dart';
 
 void mainCommon() {
-
+  // Here would be background init code, if any
 }
 
 class MyApp extends StatelessWidget {

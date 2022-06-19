@@ -20,6 +20,7 @@ class _LoginScreenState extends State<LoginScreen> {
   @override
   Widget build(BuildContext context) {
 
+    // declaration app configuration object
     final config = AppConfig.of(context);
 
     return Scaffold(
