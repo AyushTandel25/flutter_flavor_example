@@ -121,3 +121,6 @@ class MyApp extends StatelessWidget {
 ```
  <flutter-code> --flavor flavor_name -t lib/main_flavor.dart
 ```
+
+For references:
+ - [Flutter Flavor for Android](https://cogitas.net/creating-flavors-of-a-flutter-app/)
