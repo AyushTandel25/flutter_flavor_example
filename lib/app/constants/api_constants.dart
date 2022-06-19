@@ -1,0 +1,1 @@
+const loginUrl = "device/api/v1/employer/login";
